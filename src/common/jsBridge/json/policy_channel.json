@@ -1,0 +1,17 @@
+{
+  "name":"policy_channel",
+    "item": [
+      {
+        "key": "01",
+        "value": "个险"
+      },
+      {
+        "key": "02",
+        "value": "团险"
+      },
+      {
+        "key": "03",
+        "value": "银保"
+      }
+    ]
+}

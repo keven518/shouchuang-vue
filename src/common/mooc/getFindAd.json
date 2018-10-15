@@ -1,0 +1,36 @@
+{
+  "message": "查询广告位信息成功",
+  "code": "0",
+  "data": {
+    "advertsList": [{
+      "operId": null,
+      "operUser": null,
+      "operMobile": null,
+      "operType": null,
+      "advId": 1,
+      "acId": 101,
+      "advType": null,
+      "beginTime": 1529994549000,
+      "endTime": 1529994549000,
+      "closeFlag": null,
+      "attachment": null,
+      "picUrl": "http://bclapmsdemo.oss-cn-beijing.aliyuncs.com/Adcerts/153294460650551a4ceee-2eb5-4b65-8071-fa0fe2edd2e5",
+      "attUrl": null,
+      "url": "http://www.xwcms.net/js/bddm/49412.html",
+      "advName": "",
+      "clickCount": null,
+      "contactName": null,
+      "contactCompany": null,
+      "contactTelNo": null,
+      "delFlag": "0",
+      "sort": 0,
+      "status": "1",
+      "createTime": 1529994549000,
+      "updateTime": 1529994600000,
+      "createUser": "admin",
+      "updateUser": "admin",
+      "acName": null,
+      "advTypeName": null
+    }]
+  }
+}

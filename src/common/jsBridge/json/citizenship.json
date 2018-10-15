@@ -1,0 +1,89 @@
+{
+  "name":"citizenship",
+    "item": [
+      {
+        "key": "CHN",
+        "value": "中国"
+      },
+      {
+        "key": "AUS",
+        "value": "澳大利亚"
+      },
+      {
+        "key": "CAN",
+        "value": "加拿大"
+      },
+      {
+        "key": "FRA",
+        "value": "法国"
+      },
+      {
+        "key": "GBR",
+        "value": "英国"
+      },
+      {
+        "key": "GER",
+        "value": "德国"
+      },
+      {
+        "key": "HK",
+        "value": "中国香港"
+      },
+      {
+        "key": "INA",
+        "value": "印尼"
+      },
+      {
+        "key": "ITA",
+        "value": "意大利"
+      },
+      {
+        "key": "JPN",
+        "value": "日本"
+      },
+      {
+        "key": "KOR",
+        "value": "韩国"
+      },
+      {
+        "key": "MAS",
+        "value": "马来西亚"
+      },
+      {
+        "key": "MC",
+        "value": "中国澳门"
+      },
+      {
+        "key": "PHI",
+        "value": "菲律宾"
+      },
+      {
+        "key": "RUS",
+        "value": "俄罗斯"
+      },
+      {
+        "key": "SIN",
+        "value": "新加坡"
+      },
+      {
+        "key": "THA",
+        "value": "泰国"
+      },
+      {
+        "key": "TW",
+        "value": "中国台湾"
+      },
+      {
+        "key": "USA",
+        "value": "美国"
+      },
+      {
+        "key": "VIE",
+        "value": "越南"
+      },
+      {
+        "key": "OTH",
+        "value": "其他"
+      }
+    ]
+}

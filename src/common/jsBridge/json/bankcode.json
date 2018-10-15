@@ -1,0 +1,245 @@
+{
+  "name":"bankcode",
+    "item": [
+      {
+        "type": "bank",
+        "key": "01",
+        "value": "工商银行"
+      },
+      {
+        "type": "bank",
+        "key": "05",
+        "value": "农业银行"
+      },
+      {
+        "type": "bank",
+        "key": "09",
+        "value": "中国银行"
+      },
+      {
+        "type": "bank",
+        "key": "02",
+        "value": "建设银行"
+      },
+      {
+        "type": "bank",
+        "key": "07",
+        "value": "招商银行"
+      },
+      {
+        "type": "bank",
+        "key": "12",
+        "value": "交通银行"
+      },
+      {
+        "type": "bank",
+        "key": "04",
+        "value": "邮储银行"
+      },
+      {
+        "type": "bank",
+        "key": "06",
+        "value": "民生银行"
+      },
+      {
+        "type": "bank",
+        "key": "15",
+        "value": "光大银行"
+      },
+      {
+        "type": "bank",
+        "key": "23",
+        "value": "广发银行"
+      },
+      {
+        "type": "bank",
+        "key": "13",
+        "value": "浦发银行"
+      },
+      {
+        "type": "bank",
+        "key": "21",
+        "value": "平安银行"
+      },
+      {
+        "type": "bank",
+        "key": "18",
+        "value": "华夏银行"
+      },
+      {
+        "type": "bank",
+        "key": "10",
+        "value": "兴业银行"
+      },
+      {
+        "type": "bank",
+        "key": "03",
+        "value": "江苏银行"
+      },
+      {
+        "type": "bank",
+        "key": "31",
+        "value": "北京银行"
+      },
+      {
+        "type": "bank",
+        "key": "34",
+        "value": "渤海银行"
+      },
+      {
+        "type": "bank",
+        "key": "26",
+        "value": "宁波银行"
+      },
+      {
+        "type": "bank",
+        "key": "19",
+        "value": "南京银行"
+      },
+      {
+        "type": "bank",
+        "key": "24",
+        "value": "上海银行"
+      },
+      {
+        "type": "bank",
+        "key": "33",
+        "value": "天津银行"
+      },
+      {
+        "type": "ebank",
+        "key": "ICBC",
+        "value": "工商银行"
+      },
+      {
+        "type": "ebank",
+        "key": "ABC",
+        "value": "农业银行"
+      },
+      {
+        "type": "ebank",
+        "key": "BOC",
+        "value": "中国银行"
+      },
+      {
+        "type": "ebank",
+        "key": "CCB",
+        "value": "建设银行"
+      },
+      {
+        "type": "ebank",
+        "key": "CMB",
+        "value": "招商银行"
+      },
+      {
+        "type": "ebank",
+        "key": "BCOM",
+        "value": "交通银行"
+      },
+      {
+        "type": "ebank",
+        "key": "CPSRB",
+        "value": "邮储银行"
+      },
+      {
+        "type": "ebank",
+        "key": "CMBC",
+        "value": "民生银行"
+      },
+      {
+        "type": "ebank",
+        "key": "CEB",
+        "value": "光大银行"
+      },
+      {
+        "type": "ebank",
+        "key": "CGB",
+        "value": "广发银行"
+      },
+      {
+        "type": "ebank",
+        "key": "SPDB",
+        "value": "浦发银行"
+      },
+      {
+        "type": "ebank",
+        "key": "PINGAN",
+        "value": "平安银行"
+      },
+      {
+        "type": "ebank",
+        "key": "HXB",
+        "value": "华夏银行"
+      },
+      {
+        "type": "ebank",
+        "key": "CIB",
+        "value": "兴业银行"
+      },
+      {
+        "type": "ebank",
+        "key": "JSBK",
+        "value": "江苏银行"
+      },
+      {
+        "type": "ebank",
+        "key": "BOB",
+        "value": "北京银行"
+      },
+      {
+        "type": "ebank",
+        "key": "BHBK",
+        "value": "渤海银行"
+      },
+      {
+        "type": "ebank",
+        "key": "NBBK",
+        "value": "宁波银行"
+      },
+      {
+        "type": "ebank",
+        "key": "NJBK",
+        "value": "南京银行"
+      },
+      {
+        "type": "ebank",
+        "key": "SHBK",
+        "value": "上海银行"
+      },
+      {
+        "type": "ebank_g",
+        "key": "02",
+        "value": "建设银行"
+      },
+      {
+        "type": "ebank_g",
+        "key": "03",
+        "value": "江苏银行"
+      },
+      {
+        "type": "ebank_g",
+        "key": "04",
+        "value": "邮储银行"
+      },
+      {
+        "type": "ebank_g",
+        "key": "05",
+        "value": "农业银行"
+      },
+      {
+        "type": "ebank_g",
+        "key": "06",
+        "value": "民生银行"
+      },
+      {
+        "type": "ebank_g",
+        "key": "17",
+        "value": "北京农商行"
+      },
+      {
+        "type": "ebank_g",
+        "key": "23",
+        "value": "广发银行"
+      }
+    ]
+}

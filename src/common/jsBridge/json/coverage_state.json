@@ -1,0 +1,17 @@
+{
+  "name":"coverage_state",
+    "item": [
+      {
+        "key": "01",
+        "value": "有效"
+      },
+      {
+        "key": "02",
+        "value": "中止"
+      },
+      {
+        "key": "03",
+        "value": "终止"
+      }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "name":"benefit_type",
+    "item": [
+      {
+        "key": "1",
+        "value": "身故受益人"
+      },
+      {
+        "key": "2",
+        "value": "生存受益人"
+      }
+    ]
+}

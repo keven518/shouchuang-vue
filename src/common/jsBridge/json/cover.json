@@ -1,0 +1,17 @@
+{
+  "name":"cover",
+    "item": [
+      {
+        "key": "cover1",
+        "value": "恒利封面"
+      },
+      {
+        "key": "cover2",
+        "value": "金满堂封面"
+      },
+      {
+        "key": "cover3",
+        "value": "玉满堂封面"
+      }
+    ]
+}
