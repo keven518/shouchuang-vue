@@ -1,25 +1,25 @@
 <!--  -->
 <template>
   <div class="footer">
-    <a class="nav-box">
+    <router-link tag="div" class="nav-box" to="/mainPage/index">
         <i class="iconfont icon-shouye"></i>
         <div class="nav-txt">首页</div>
-    </a>
-    <a class="nav-box">
+    </router-link>
+    <router-link tag="div" class="nav-box" to="/mainPage/find">
         <i class="iconfont icon-faxian"></i>
         <div class="nav-txt">发现</div>
-    </a>
-    <div class="nav-t">
+    </router-link>
+    <router-link tag="div" class="nav-t" to="/roomList">
         <div class="nav-t-box" ></div>
-    </div>
-    <a class="nav-box">
+    </router-link>
+    <router-link tag="div" class="nav-box" to="/mainPage/service">
         <i class="iconfont icon-fuwu"></i>
         <div class="nav-txt">服务</div>
-    </a>
-    <a class="nav-box">
+    </router-link>
+    <router-link tag="div" class="nav-box" to="/mainPage/myCenter">
         <i class="iconfont icon-my1"></i>
         <div class="nav-txt">我的</div>
-    </a>
+    </router-link>
   </div>
 </template>
 
@@ -62,6 +62,30 @@ export default {
     display: flex;
     flex-direction: column;
     position: relative;
+    &.router-link-active{
+      color: #97415E;
+    }
+    &.router-link-active:after {
+      content: "";
+      width: 10px;
+      height: 10px;
+      background: #97415E;
+      position: absolute;
+      left: 0px;
+      right: 0px;
+      margin: auto;
+      border-radius: 6px;
+      bottom: -6px;
+    }
+    i {
+      text-align: center;
+      line-height: 30px;
+    }
+    .nav-txt{
+      text-align: center;
+      font-size: 14px;
+      line-height: 1;
+    }
   }
   .nav-t {
     width: 90px;

@@ -4,13 +4,13 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import 'lib-flexible/flexible.js'
-import VueAwesomeSwiper from 'vue-awesome-swiper'
 import { AlertPlugin, ToastPlugin } from 'vux'
 Vue.use(AlertPlugin)
 Vue.use(ToastPlugin)
 
 // import 'styles/iconfont.css'
-// import 'styles/reset.scss'
+import 'styles/reset.scss'
+import 'styles/iconfont.css'
 
 Vue.config.productionTip = false
 

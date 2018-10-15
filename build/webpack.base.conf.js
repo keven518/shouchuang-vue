@@ -72,7 +72,8 @@ const webpackConfig = {
       },
       {
         test: /\.(css|less|scss)(\?.*)?$/,
-        loader: 'style-loader!css-loader!sass-loader!less-loader!postcss-loader'
+        loader: 'style-loader!css-loader!sass-loader!less-loader!postcss-loader',
+        include: ['node build/dev-server.js']
       }
     ]
   },
